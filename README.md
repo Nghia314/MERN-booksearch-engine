@@ -18,8 +18,8 @@
 - JavaScript
 
 ## Results
-Github - 
-Github Deployed link - 
+Github - https://github.com/Nghia314/MERN-booksearch-engine
+Github Deployed link -  https://nghia314.github.io/MERN-booksearch-engine/
 heroku deploy link -
 
 ## License
